@@ -39,3 +39,13 @@ A detailed privacy policy page will be added here as the public release process 
 ## Developer
 
 Published by **Atilla Aksoy**.
+
+Privacy Policy
+App name: HypeUp
+
+This app uses Google AdMob to display ads.
+AdMob may collect device identifiers, advertising data, product interaction data, coarse location, crash data, and performance data.
+
+We do not collect names, emails, phone numbers, contacts, photos, or precise location.
+
+Contact: atilla.aksoy.tc@gmail.com
