@@ -32,20 +32,10 @@ https://github.com/AtillaAksoy/Ball-Battle-Clash-Support/issues
 
 ## Privacy
 
-Ball Battle Clash may use advertising services such as Google AdMob. The game does not include user chat, user-generated content, unrestricted web browsing, gambling, or loot boxes.
+Privacy Policy:
 
-A detailed privacy policy page will be added here as the public release process continues.
+https://github.com/AtillaAksoy/Ball-Battle-Clash-Support/blob/main/PRIVACY.md
 
 ## Developer
 
 Published by **Atilla Aksoy**.
-
-Privacy Policy
-App name: HypeUp
-
-This app uses Google AdMob to display ads.
-AdMob may collect device identifiers, advertising data, product interaction data, coarse location, crash data, and performance data.
-
-We do not collect names, emails, phone numbers, contacts, photos, or precise location.
-
-Contact: atilla.aksoy.tc@gmail.com
