@@ -34,7 +34,7 @@ https://github.com/AtillaAksoy/Ball-Battle-Clash-Support/issues
 
 Privacy Policy:
 
-https://github.com/AtillaAksoy/Ball-Battle-Clash-Support/blob/main/PRIVACY.md
+https://atillaaksoy.github.io/Ball-Battle-Clash-Support/privacy.html
 
 ## Developer
 
